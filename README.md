@@ -26,7 +26,7 @@ The codes associated with [this extension](https://chrome.google.com/webstore/de
 
 ### License
 
-License under [MIT](LICENSE) Ⓒ [SandeepKrSuman](https://github.com/SandeepKrSuman)
+Licensed under [MIT](LICENSE) Ⓒ [SandeepKrSuman](https://github.com/SandeepKrSuman)
 
 <br>
 
